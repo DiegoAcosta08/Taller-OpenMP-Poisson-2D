@@ -1,0 +1,6 @@
+# Ignorar ejecutables compilados
+bin/
+
+# Ignorar archivos del sistema operativo (si usas Mac o Windows)
+.DS_Store
+Thumbs.db
